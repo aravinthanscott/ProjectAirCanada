@@ -13,5 +13,6 @@ public static void main(String[] args) {
 	College c= new College();
 	c.ug();
 	c.pg();
+System.out.println("Haii");
 }
 }
